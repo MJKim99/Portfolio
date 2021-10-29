@@ -78,7 +78,7 @@
 DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View
 JDBC, 트랜잭션 처리
 
-- 웹 프론트 엔드  (48시간)v
+- 웹 프론트 엔드  (48시간)<br>
 HTML 5 / CSS3 / JavaScript / jQuery
 반응형웹 / BootStrap / AJAX
 JSON / XML / 각종 API
