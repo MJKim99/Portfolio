@@ -5,8 +5,6 @@
 
 [효자손](https://github.com/Capstone-Muyaho)
 
-<br>
-
 ### 개요
 - 효자손(HyoJason) 애플리케이션은 노년층인 부모님의 건강관리와 부모-자식 간의 간접 소통 지원을 위한 애플리케이션입니다.
 
@@ -38,8 +36,6 @@
 ---
 ## 프로젝트
 [크라우드펀딩 웹 사이트]()
-
-<br>
 
 ## 개요
 - 기존의 크라우드 펀딩 시스템의 소비자 보호 미흡 문제점을 개선해보고자 기획한 서비스
@@ -76,38 +72,60 @@
 
 ## 전반기 교육 내용 (총 478시간)
 - JAVA 프로그래밍 (80시간)
- 기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream
+
+기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream
 
 - Oracle 및 JDBC(40시간)
- DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View
- JDBC, 트랜잭션 처리
+
+DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View
+
+JDBC, 트랜잭션 처리
 
 - 웹 프론트 엔드  (48시간)
- HTML 5 / CSS3 / JavaScript / jQuery
- 반응형웹 / BootStrap / AJAX
- JSON / XML / 각종 API
+
+HTML 5 / CSS3 / JavaScript / jQuery
+
+반응형웹 / BootStrap / AJAX
+
+JSON / XML / 각종 API
 
 - JSP 기반 웹 프로그래밍 (60시간)
- Servlet / JSP / JSTL / EL / 
- 쿠키, 세션, 파일업로드
- MVC model2 기반 웹 어플리케이션 구현
- AJAX, API 서버 설계 및 구축
- Jackson, COS 등 라이브러리 활용
- CKEditor 연동
- Tomcat 서버
+
+Servlet / JSP / JSTL / EL / 
+
+쿠키, 세션, 파일업로드
+
+MVC model2 기반 웹 어플리케이션 구현
+
+AJAX, API 서버 설계 및 구축
+
+Jackson, COS 등 라이브러리 활용
+
+CKEditor 연동
+
+Tomcat 서버
 
 - Spring Framework/Spring Boot (130 시간)
- Maven Build,
- Dependency Injection, Autowire, DI Config
- AOP. Sping MVC
- request mapping, validation
- Spring-jdbc, Transaction, Validation
- MyBatis, Interceptor
- REST, Spring-Secutiry,
- Junit
+
+Maven Build,
+
+Dependency Injection, Autowire, DI Config
+
+AOP. Sping MVC
+
+request mapping, validation
+
+Spring-jdbc, Transaction, Validation
+
+MyBatis, Interceptor
+
+REST, Spring-Secutiry,
+
+Junit
 
 - 협업,형상관리
- GitHub
+
+GitHub
 
 
 <br>
