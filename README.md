@@ -5,6 +5,7 @@
 
 ## 개요
 - 기존의 크라우드 펀딩 시스템의 소비자 보호 미흡 문제점을 개선해보고자 기획한 서비스
+- 와디즈를 웹 사이트를 참고하여 기획하였다.
 
 [프로젝트 발표 영상](https://www.youtube.com/watch?v=nrJnLfMdHFo&list=PLedGoSru794850VQuzA4qUV1j_cN71WTe)
 
@@ -16,15 +17,23 @@
 - Ajax를 활용한 좋아요 기능
 - 관리자 페이지 전체 구현 (공지사항 CRUD, 펀딩 프로젝트 RUD 구현)
 - 문의하기, 답변하기 CRU 구현
-- Main page 헤더 및 푸터 구현
+- 반응형 헤더 및 푸터 구현
+
+<br>
+
+### 느낀 점
+- Oauth2와 Spring Security 사용을 통해 보안 개발에 대해 생각해볼 수 있었다.
+- 매주 팀원들과 코드 리뷰 시간을 가지며 협업 시 커뮤니케이션의 중요성을 다시금 깨닫고, 커뮤니케이션 능력을 길렀다.
+- Spring MVC와 REST API를 구현해보며 숙련도를 높일 수 있었다.
+
+<br>
 
 ### 사용 기술, Etc.
 - Spring, MyBatis, JPA, SpringSecurity, Spring MVC, Spring Boot, oauth2, JSP, JAVA, Spring JDBC, Ajax, JSON, jQuery, JSTL
 - Kakao Login API, Google Login API, Naver Login API, 도로명주소 API
 - HTML5, CSS3, JavaScript
-- MySQL8, Apache Tomcat v9.0
+- MySQL8.0.26, Apache Tomcat v9.0
 - Github
-- Eclipse, Visual Studio
 
 <br>
 
@@ -37,7 +46,6 @@
 
 ### 개요
 - 효자손(HyoJason) 애플리케이션은 노년층인 부모님의 건강관리와 부모-자식 간의 간접 소통 지원을 위한 애플리케이션입니다.
-
 
 - 집 내외부에서 발생할 수 있는 다양한 위험 요소에 대해 부모님의 안전을 보장할 수 없고, 주거 상의 물리적 차이로 인해 쉽게 단절될 수 있는 부모-자식 간의 소통 문제를 자연스럽게 개선할 수 있는 방법을 찾기 위한 취지에서 해당 애플리케이션을 구상하였습니다.
 
@@ -55,6 +63,13 @@
 - 사용자 정보 데이터베이스 관리 : Firebase RTDB
 - Kakao login API 
 - 스냅톡 기능을 위한 알림 채널 및 토큰 관리
+
+<br>
+
+### 느낀 점
+- 사용자 연령층을 고려한 애플리케이션 편의성을 생각하며 개발하는 방법을 연구해보았다.
+- 빠르게 버전이 바뀌는 Kotlin 사용을 통해 버전 관리의 중요성을 깨닫게 되었다.
+- Firebase RTDB 사용을 통해 동기 방식과 비동기 방식의 차이점을 알게 되었다.
 
 <br>
 
