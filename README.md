@@ -55,6 +55,7 @@
 - 스냅톡 기능을 활용하여 기존 메신저와는 달리 간단한 사용법으로 사진 또는 영상(스냅샷)을 신속하게 전송할 수 있다. 스마트폰 사용에 익숙치 않은 연령층들에게도 편리한 사용감을 제공한다.
 
 [프로젝트 발표 영상](https://youtu.be/b3iMcY7abKg)
+
 [프로젝트 발표 자료](https://github.com/MJKim99/Portfolio/blob/main/%5B%EB%AC%B4%EC%95%BC%ED%98%B8%5D%20%ED%9A%A8%EC%9E%90%EC%86%90%20%EB%B0%9C%ED%91%9C.pdf)
 
 <br>
